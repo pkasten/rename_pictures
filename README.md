@@ -1,4 +1,4 @@
 # rename_pictures
 
 renaming files
--add order and prefix in code
+-add folder and prefix in code
